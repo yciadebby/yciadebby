@@ -6,7 +6,7 @@
 
 
 ## About me
-<h6 align="center"> Hi! I am Ycia. I am new here! </h6>
+<h6 align="center"> Hey! I am Ycia. </h6>
 
 | Rank |   Languages   |
 |-----:|---------------|
