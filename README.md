@@ -8,27 +8,6 @@
 ## About me
 <h6 align="center"> Hey! I am Ycia. </h6>
 
-| Rank |   Languages   |
-|-----:|---------------|
-|     1|  C            |
-|     2|  HTML         |
-|     3|  CSS          |
-|     3|  C++          |
-
-
-<details>
-<summary>My top Languages</summary>
-
-| Rank |   Languages   |
-|-----:|---------------|
-|     1|  C            |
-|     2|  HTML         |
-|     3|  CSS          |
-|     3|  C++          |
-
-
-</details>
-
 
 ---
 > Failing to prepare is preparing to fail.
